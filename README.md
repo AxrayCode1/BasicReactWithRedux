@@ -10,3 +10,4 @@ React with Redux Project
 5. React要使用Redux, 必須安裝react-redux
 6. Use Provider add store properties pass to App
 7. Containers use connect function to pass (state to prop) and dispatch to component
+8. Add Middleware to handle async. actions, use redux-thunk
